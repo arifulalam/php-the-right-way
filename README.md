@@ -1,20 +1,19 @@
-# PHP: The Right Way
+# পিএইচপি: সঠিক পথ
 
-## Overview
+## সারাংশ
 
-This is the GitHub Pages repository for the _PHP: The Right Way_ project.
+এটি গিটহাব পৃষ্ঠাসমূহের একটি রিপোসিটোরি পিএইচপি: সঠিক পথ প্রকল্পের জন্য।
 
-* This website is a Jekyll project.
-* Each section and sub-section are a Markdown file in `_posts/`.
-* Sub-sections have `isChild: true` in their front matter.
-* The navigation and page structure are automatically generated.
+* এই ওয়েবসাইটটি একটি Jekyll প্রকল্প.
+* সকল অধ্যায় এবং অনুচ্ছেদ এক একটি মার্কডাউন ফাইল যা `_posts/` সংরক্ষিত আছে।
+* অনুচ্ছেদসমূহের `isChild: true` নিজস্ব সম্মুখ বিষয় দেওয়া আছে।.
+* সূচীপত্র এবং পৃষ্ঠাসমূহের গঠন স্বয়ংক্রিয়ভাবে তৈরী হবে।
 
-## Spread the Word!
+## শব্দ ছড়িয়ে দিন!
 
-_PHP: The Right Way_ has web banner images you can use on your website. Show your support, and let new PHP
-developers know where to find good information!
+_পিএইচপি: সঠিক পথ_  এর নিজস্ব ওয়েব ব্যানার বা শিরোনামা আছে যা আপনি চাইলেই আপনার ওয়েবসাইটে ব্যবহার করতে পারেন। আপনার সহায়তা অন্যদের দেখতে দিন, নতুন পিএইচপি ডেভেলপারদের জানান কোথায় কার্যকর তথ্য পাওয়া যায়!
 
-[See Banner Images](http://www.phptherightway.com/banners.html)
+[ব্যানার বা শিরোনামার ছবিসমূহ দেখুন](http://www.phptherightway.com/banners.html)
 
 ## How to Contribute
 

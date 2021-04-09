@@ -3,13 +3,13 @@ isChild: true
 anchor:  mac_setup
 ---
 
-## Mac Setup {#mac_setup_title}
+## ম্যাক এ সংস্থাপন {#mac_setup_title}
 
-macOS comes prepackaged with PHP but it is normally a little behind the latest stable release. There are multiple ways to install the latest PHP version on macOS.
+macOS পিএইচপি সহই সংস্থাপনের জন্য পাওয়া যায়, কিন্তু সাধারণত সর্বশেষ স্থিতিশীল সংস্করণ দেওয়া থাকে না। অনেকভাবেই সর্বশেষ পিএইচপি সংস্করণ macOS এ সংস্থাপন করা সম্ভব।
 
-### Install PHP via Homebrew
+### হোমব্রিউ দিয়ে পিএইচপি সংস্থাপন
 
-[Homebrew] is a package manager for macOS that helps you easily install PHP and various extensions. The Homebrew core repository provides "formulae" for PHP 5.6, 7.0, 7.1, 7.2, 7.3, 7.4, and PHP 8.0. Install the latest version with this command:
+[Homebrew] macOS এর একটি প্যাকেজ ম্যানেজার যা আপনাকে পিএইচপি এবং এর বিভিন্ন এক্সটেনশন সংস্থাপনে সহজে সাহায্য করবে। হোমব্রিউ কোর রিপোসিটোরি পিএইচপি ৫.৬, ৭.০, ৭.১, ৭.২, ৭.৩, ৭.৪ এবং ৮.০ সংস্থাপনের জন্য "formulae" দিয়ে থাকে। সর্বশেষ সংস্করণ সংস্থাপন করার জন্য নিম্নোক্ত কমান্ডটি ব্যবহার করুন:
 
 ```
 brew install php@8.0

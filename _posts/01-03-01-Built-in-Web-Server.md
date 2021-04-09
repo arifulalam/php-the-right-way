@@ -1,19 +1,20 @@
 ---
-title:   Built-in Web Server
+title:   অন্তর্নিমিত ওয়েব সার্ভার
 isChild: true
 anchor:  builtin_web_server
 ---
 
-## Built-in web server {#builtin_web_server_title}
+## অন্তর্নি মিত ওয়েব সার্ভার {#builtin_web_server_title}
 
-With PHP 5.4 or newer, you can start learning PHP without installing and configuring a full-fledged web server.
-To start the server, run the following command from your terminal in your project's web root:
+পিএইচপি ৫.৪ বা তার পরের সংস্করণসমূহে, আপনি চাইলে পূর্ণ-সজ্জিত ওয়েব সার্ভার সংস্থাপন এবং ঠিক করা ছাড়াই পিএইচপি শেখা শুরু করতে পারবেন।
+সার্ভার চালু করার জন্য, নিম্নোক্ত কমান্ডটি আপনার প্রকল্পের ওয়ের রূট ফোল্ডার বা ডিরেক্টরিতে টারমিনালে প্রয়োগ করে করতে পারেন:
 
 {% highlight console %}
 > php -S localhost:8000
 {% endhighlight %}
 
-* [Learn about the built-in, command line web server][cli-server]
+* [অন্তর্নিমিত ওয়েব সার্ভার, কমান্ড লাইন ওয়েব সার্ভার সম্পর্কে বিস্তারিত জানুন][cli-server]
 
 
 [cli-server]: http://php.net/features.commandline.webserver
+

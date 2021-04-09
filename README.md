@@ -15,9 +15,9 @@ _পিএইচপি: সঠিক পথ_  এর নিজস্ব ওয়�
 
 [ব্যানার বা শিরোনামার ছবিসমূহ দেখুন](http://www.phptherightway.com/banners.html)
 
-## How to Contribute
+## কিভাবে সহায়তা করবেন
 
-You should read the `CONTRIBUTING.md` file for precise instructions and tips. But, if you prefer a TL;DR:
+আপনার `CONTRIBUTING.md` ফাইলটি পড়া উচিত প্রয়োজনীয় নির্দেশনা এবং পরামর্শের জন্য। কিন্তু যদি আপনি TL;DR: চান।
 
 1. Fork and edit
 2. Optionally install [Ruby](https://rvm.io/rvm/install/) with [Jekyll](https://github.com/mojombo/jekyll/) gem to preview locally

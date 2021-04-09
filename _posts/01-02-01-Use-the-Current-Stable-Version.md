@@ -1,15 +1,15 @@
 ---
-title:   Use the Current Stable Version (8.0)
+title:   বর্তমান স্থিতিশীল সংস্করণ ব্যবহার করুন (৮.০)
 isChild: true
 anchor:  use_the_current_stable_version
 ---
 
-## Use the Current Stable Version (8.0) {#use_the_current_stable_version_title}
+## বর্তমান স্থিতিশীল সংস্করণ ব্যবহার করুন (৮.০) {#use_the_current_stable_version_title}
 
-If you are getting started with PHP, start with the current stable release of [PHP 8.0][php-release]. PHP 8.x adds many [new features](#language_highlights) over the older 7.x and 5.x versions. The engine has been largely re-written, and PHP is now even quicker than older versions. PHP 8.0 is a major update of the language and contains many new features and optimizations.
+যদি আপনি পিএইচপি ব্যবহার শুরু করতে চাচ্ছেন, তাহলে বর্তমান স্থিতিশীল সংস্করণ [PHP 8.0][php-release] দিয়ে শুরু করুন. পিএইচপি ৮.x এ অনেক  [নতুন বৈশিষ্ট্য](#language_highlights) যুক্ত করা হয়েছে যা পূর্ববর্তী সংস্করণ ৭.x এবং ৫.x এ ছিলো না। এর মূল চালক বা ইঞ্জিন বৃহদাকারে নতুন করে লিখিত হয়েছে, এবং পিএইচপি এখন আগের সংস্করণসমূহের তুলনায় আরও অনেক বেশী গতিশীল। পিএইচপি ৮.০ ভাষাটির একটি মূখ্য উন্নত সংস্করণ এবং যাতে অনেক নতুন বৈশিষ্ট্য ও অপ্টিমাইজেশন যুক্ত হয়েছে।
 
-You should try to upgrade to the latest stable version quickly - PHP 5.6 [is already End of Life](http://php.net/supported-versions.php). Upgrading is easy, as there are not many [backwards compatibility breaks][php-bc]. If you are not sure which version a function or feature is in, you can check the PHP documentation on the [php.net][php-docs] website.
+আপনার অবশ্যই অতিদ্রুত সর্বশেষ স্থিতিশীল সংস্করন ব্যবহার করা উচিত - পিএইচপি ৫.৬ [তার ব্যবহারের শেষ প্রান্তে](http://php.net/supported-versions.php) চলে এসেছে।. সর্বশেষ সংস্করনে রূপান্তর খুবই সহজ, যেহেতু ততবেশি [পূর্বের সাথে ততবেশি অসামঞ্জস্যতা][php-bc] নেই। যদি আপনি কোন সংস্করণে কি নতুন বৈশিষ্ট্য বা সুবিধা যুক্ত করা হয়েছে সে বিষয়ে জানতে চান, তাহলে আপনি পিএইচপি এর সহায়িকা [php.net][php-docs] ওয়েবসাইটে দেখতে পারেন।
 
-[php-release]: http://php.net/downloads.php
-[php-docs]: http://php.net/manual/
-[php-bc]: http://php.net/manual/migration80.incompatible.php
+[পিএইচপি-সংস্করণ]: http://php.net/downloads.php
+[পিএইচপি-সহায়িকা]: http://php.net/manual/
+[পিএইচপি-সামঞ্জস্যতা]: http://php.net/manual/migration80.incompatible.php

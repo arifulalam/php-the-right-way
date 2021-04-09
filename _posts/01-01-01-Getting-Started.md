@@ -2,5 +2,5 @@
 anchor: getting_started
 ---
 
-# Getting Started {#getting_started_title}
+# প্রারম্ভিকা {#getting_started_title}
 
